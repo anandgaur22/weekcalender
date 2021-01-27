@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeekCalender</string>
+    <string name="date_infos">%1$s - %2$s</string>
+    <string name="address">Auto Garage Network Stonepits Farm, Six Hills Rd, Wartnaby, Melton Mowbray LE14 3JQ, United Kingdom</string>
+    <string name="title_activity_roadside">Map</string>
+
+</resources>
